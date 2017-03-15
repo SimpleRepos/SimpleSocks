@@ -1,0 +1,10 @@
+var searchData=
+[
+  ['open',['open',['../class_s_socks_1_1_u_d_p_socket.html#ae3bf0ed10521ae662b1415cb505e536e',1,'SSocks::UDPSocket']]],
+  ['operator_20const_20sockaddr_20_2a',['operator const sockaddr *',['../class_s_socks_1_1_host_address.html#ab061f08382f6e4595bff563ba1120dac',1,'SSocks::HostAddress']]],
+  ['operator_20const_20sockaddr_5fin_20_2a',['operator const sockaddr_in *',['../class_s_socks_1_1_host_address.html#a47a34d4ce992470ed78c4cb42ff3b1e9',1,'SSocks::HostAddress']]],
+  ['operator_20int',['operator int',['../class_s_socks_1_1_utility_1_1_t_sock.html#a93f46e092bd8ea179acd04b27769362a',1,'SSocks::Utility::TSock']]],
+  ['operator_20sockaddr_20_2a',['operator sockaddr *',['../class_s_socks_1_1_host_address.html#a44742d5629fd7cae1c534b78a22d2273',1,'SSocks::HostAddress']]],
+  ['operator_20sockaddr_5fin_20_2a',['operator sockaddr_in *',['../class_s_socks_1_1_host_address.html#abe698dd3701593c8a2efccea557c930d',1,'SSocks::HostAddress']]],
+  ['operator_3d',['operator=',['../class_s_socks_1_1_host_address.html#ac3791f2b9770194ff6a2d6560b83aa90',1,'SSocks::HostAddress::operator=(const HostAddress &amp;)=default'],['../class_s_socks_1_1_host_address.html#a8ac2368e8e063b2637d4f1ea5fc345de',1,'SSocks::HostAddress::operator=(HostAddress &amp;&amp;)=default'],['../class_s_socks_1_1_t_c_p_server.html#a12b8e8f35600f53231dc20fd2312b553',1,'SSocks::TCPServer::operator=(const TCPServer &amp;)=delete'],['../class_s_socks_1_1_t_c_p_server.html#a48e28ad17dd62ca1728fb533ef1ea7a9',1,'SSocks::TCPServer::operator=(TCPServer &amp;&amp;moveFrom)'],['../class_s_socks_1_1_t_c_p_socket.html#a754706c90fd58a731dde9c6e864fb937',1,'SSocks::TCPSocket::operator=(const TCPSocket &amp;)=delete'],['../class_s_socks_1_1_t_c_p_socket.html#a56ddf28f411270460e5310cc07c159b9',1,'SSocks::TCPSocket::operator=(TCPSocket &amp;&amp;moveFrom)'],['../class_s_socks_1_1_u_d_p_socket.html#ab6bb28317d3d6f5a0163dcec757875f1',1,'SSocks::UDPSocket::operator=(const UDPSocket &amp;)=delete'],['../class_s_socks_1_1_u_d_p_socket.html#ad62c47d6244f7dcc8fc7444c32e70c6c',1,'SSocks::UDPSocket::operator=(UDPSocket &amp;&amp;moveFrom)']]]
+];
